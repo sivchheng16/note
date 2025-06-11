@@ -1,0 +1,61 @@
+this week:
+####
+Focus on Mini_station:
+ - Replace SSD
+    + Angdoung 4
+    + Eco 1
+ - Check Mini
+    + Aranhraingsey (3 Mini)
+        _ Borkend SSD 2
+        _ Problem HDMI 1
+
+
+
+
+31/Mar/25
+Mifa vs life  (23/03/25)
+isi vs mifa (08/03/25)
+MIFA vs Tiffy (29/03/2025)
+
+
+This week:
+
++ Invoice Ticket Sale For ISI 4 Match
+    - ISI VS KRV (26/04/25).
+    - MIFA VS ISI (03/05/25).
+    - ISI VS TIFFY (11/05/25).
+    - One more Match for ISI after this week.
++ Learn Javascrip code.
+
+
+S/N: G69592-1779   (ssd)
+C2060010202212070007 (mini)
+
+add to Mini old stock and it will be too temo on this week 20/05/25
+
+
+My ACLEDA account
+ account Number: 0969094960
+ Account Name: KHEANG SIVCHHENG
+
+
+This week task
+
+- Learn command line & Javascrip
+- Support StadiumX with National team
+
+
+command git with github
+first ##
+clone your file mananger to github
+(git clone link of the repon)
+##
+Don't forget ____
+joint to file you want to commit to github
+=> type(git status => git add . )
+then ##
+(type(git commit -m "name"))
+and then you can try to see status (type(git status))
+#####type(git log)want to see all commit
+and then (push all your file)
+
