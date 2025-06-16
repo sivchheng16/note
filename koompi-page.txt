@@ -11,9 +11,8 @@ ONELAB គឺជាបន្ទប់កុំព្យូទ័រ និងប
 ////
 
 
-ដំណឹងល្អៗៗ!!🎉🎉
-គម្ពីរសូមណែនាំ KOOMPI Ministation ដែលជាប្រភេទកុំព្យូទ័រលើតុថ្មីដែលដំណើរការនៅលើ KOOMPI Mini PC។  មួយឈុតនេះ មានរាងតូចស្អាត និងងាយស្រួលតម្លើងក្នុងផ្ទះ នៅកន្លែងធ្វើការ ឬនៅសាលារៀន។
-លោកអ្នកអាចធ្វើការកុម្ម៉ង់ឥលូវនេះក្នុងតម្លៃ 409$  ប្រញាប់ឡើងណាអ្នកដែលចង់បានកុំព្យូទ័រលើតុ ព្រោះចំនួនមានកំណត់  ។
+KOOMPI Ministation គឺជាប្រភេទកុំព្យូទ័រលើតុថ្មីដែលដំណើរការនៅលើ KOOMPI Mini PC។  មួយឈុតនេះ មានរាងតូចស្អាត និងងាយស្រួលតម្លើងក្នុងផ្ទះ នៅកន្លែងធ្វើការ ឬនៅសាលារៀន។
+លោកអ្នកអាចធ្វើការកុម្ម៉ង់ឥលូវនេះក្នុងតម្លៃ 409$  ​​​​​​សម្រាប់កុំព្យូទ័រលើតុដ៏ស្រស់ស្អាតមួយនេះ ។
 ក្នុងមួយឈុត KOOMPI Ministation រួមមាន:
 - KOOMPI Mini PC
 - ម៉ូនីទ័រ KOOMPI 24 អ៊ីញ
@@ -38,5 +37,13 @@ For details and order:
 
 ///
 
-
+KOOMPI Onelab Workstation គឺជាបន្ទប់កុំព្យូទ័រដែលមានបំពាក់នូវ គ្រឿងបរិក្ខារ (Hardware) និងសូហ្វវែរ (Software) ដែលសម្រួលឱ្យគ្រូ និងអ្នកគ្រប់គ្រងអាចតាមដានការសិក្សានៃការអនុវត្តរបស់សិស្សក្នុងពេលវេលាជាក់ស្តែង។ ក្នុងនោះ មុខងារ និងសមាសធាតុសំខាន់បីដែលធ្វើឱ្យ បន្ទប់មាននោះមានដំណើរការគឺ: គ្រឿងបរិក្ខារ (Hardware) ម៉ាស៊ីនផ្ទុកមាតិកា (Content server) និងការភ្ជាប់អ៊ីនធឺណិត។
+សាលារៀននានា គឺមានភាពងាយស្រួលវិនិយោគក្នុងការប្រើ Workstations ដោយសារប្រសិទ្ធិភាព បូករួមនឹងការប្រើប្រាស់ ឧបករណ៍តិចសំខាន់ៗ ដូចជា ម៉ូនីទ័រ ក្តារចុច Mouses និង Raspberry Pis។ សេវាកម្មរួមមាន ម៉ាស៊ីនផ្ទុកមាតិកា (Content server) ដែលដំណើរការលក្ខណៈឯករាជ្យ មានន័យថាព័ត៌មានត្រូវបានរក្សាទុកក្រៅអ៊ីនធឺណិត ហើយត្រូវបានធ្វើបច្ចុប្បន្នភាព (Update) រៀងរាល់ពេលភ្ជាប់អ៊ីនធឺណិត (KOOMPI Fi-Fi) ។ ការប្រើគ្មានភាពសាំញ៊ាំដោយត្រូវការតែ ម៉ាស៊ីនគ្រប់គ្រងមួយដែលផ្ទុក ទិន្នន័យរបស់ម៉ាស៊ីនមេ (Samba server database) និងការបង្កើតជាប្រព័ន្ធគ្រប់គ្រងកណ្តាល (Central Management) ដ៏មានឥទ្ធិពលមួយ។
+សម្រាប់ព័ត៌មានបន្ថែមសូមទាក់ទងមកកាន់យើងខ្ញុំតាមរយៈលេខទូរស័ព្ទ: 012 537356
+[Onelab' Workstation]
+KOOMPI Onelab Workstation is a computer laboratory with hardware and software solution that enables teachers and administrators to facilitate and monitor students' progress in real time. There are three main components that makes the labs functional: hardware, content server, and internet connection.
+Schools can easily invest in Workstations due to its affordability and utilization of essential tools: monitors, keyboards, mouses, and Raspberry Pis. The labs feature a content server that runs independently, meaning information is stored in an offline cache and gets updated when connected to the internet (KOOMPI Fi-Fi). All Workstations are connected to one central machine hosting a samba server database, making a powerful central management system.
+For more information, please contact us at:
+012 537356 or our official page
+Join us: t.me/koompicom
 
