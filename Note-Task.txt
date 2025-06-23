@@ -93,11 +93,18 @@ Apprentice Update
 
  Mini 5 from Aranhraingsey
 
- -MOA24020200020200067      (blue screen) (SSD old S/N:2151010102794 Replace S/N:G69592-3779)
+ -MOA24020200020200067      (blue screen) (SSD old S/N:2151010102794 Replace S/N:G69592-3779(new ssd blue screen))
  -MOA24020200020200090      (start open blue restart)(blue screen)
- -MOA24020200020200117      (blue screen brokend disk but when install window it ok )
+ -MOA24020200020200117      (blue screen brokend disk but when install window it ok new window it also blue screen too) (old ssd S/N:2149064212002)
  -MOA24020200020200045      (brokend disk) (SSD old S/N:2151010102534 Replace S/N:G69592-3748)  ok
  -MOA24020200020200052      (blue screen and slowly )  (SSD old S/N:2151010102517 Replace S/N:G69592-3415)  ok
+
+
+
+Three Mini from sala Angdoung (date: 20.06.2025)
+-MOA24020200020200051 (BIOS and reused window don't working)
+-MOA24020200020200030  (somtime don't working and show black screen and mouse pointer)
+-MOA24020200020200066 (BIOS)
 
 
 
@@ -106,5 +113,14 @@ Apprentice Update
 
  task this week
 - Check 5 Mini from sala Aranhraingsey (See blue screen All)
+
+
+
+task this week
+
+ Mini from sala Aranhraingsey
+ - test and find solution
+ -
+
 
 
