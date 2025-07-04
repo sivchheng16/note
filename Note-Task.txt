@@ -31,7 +31,7 @@ This week:
 S/N: G69592-1779   (ssd)
 C2060010202212070007 (mini)
 
-add to Mini old stock and it will be too temo on this week 20/05/25
+add to Mini old stock and it will be too demo on this week 20/05/25
 
 
 My ACLEDA account
@@ -91,6 +91,10 @@ Apprentice Update
 
 
 
+
+
+
+
  Mini 5 from Aranhraingsey
 
  -MOA24020200020200067      (blue screen) (SSD old S/N:2151010102794 Replace S/N:G69592-3779(new ssd blue screen))  ok
@@ -128,5 +132,16 @@ task this week
  -test Mini from Angdoung
  -finish 4 ssd for Aranhraingsey
 
+
+
+
+
+ PANHASAS MiniStatioin DEMO:
+
+ 1  Mini (MOA24020200020200236)
+    Mini (C2060010202212070007)
+
+ 2  Monitor(WCH20241013178)
+    Monitor(WCH20241013174)
 
 
