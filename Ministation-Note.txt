@@ -31,3 +31,7 @@ New SSD (date:08/07/25)
     S/N:G69592-3141 (Angdoung)
     S/N:G69592-3140 (Angdoung)
     S/N:G69592-3127
+
+(09/07/25) Angdoung Replace Mini
+    Old (MOA24020200020200053)
+    New (MOA24020200020200137)
