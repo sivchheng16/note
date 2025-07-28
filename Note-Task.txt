@@ -164,9 +164,10 @@ Task apprentice this week:
 
 
     Note task this week (28 july)
+    Our task:
+    [X] Support suppercup on (03 august )
 
-    [X] learn Gemini CLI
-    [X] Javascrip
+
 
     bunhak
     [X] final report testing weteka
@@ -175,3 +176,10 @@ Task apprentice this week:
     [X] reply user
     [X] change battery E13
     [X] sent laptop back to user
+
+    chheang
+    [X] learn html
+
+    chheng
+    [X] learn Gemini CLI in terminal
+    [X] Javascrip
