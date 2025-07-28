@@ -145,3 +145,33 @@ task this week
     Monitor(WCH20241013174)
 
 
+
+
+Task apprentice this week:
+
+    Our task
+    - [X] Clear icon on desktop, make it look clean and remain only 1 or 2 files that is the current project to learn what to do rightnow.
+    - [X] Rename and organize back the file and folder name
+    - [X] Learn to use with Gemini CLI on terminal
+
+    Lyhor
+    - [x]តេស្តcomputer មកពីសាលា5
+    - [x]ផ្ញើkeyboard ទៅសាលានៅពោធិន៍តុង
+
+    Me
+    - [x] Sent Monitorto Aranhraingsey1 (replace)
+    - [x] Mini set to kape
+
+
+    Note task this week (28 july)
+
+    [X] learn Gemini CLI
+    [X] Javascrip
+
+    bunhak
+    [X] final report testing weteka
+
+    lyhor
+    [X] reply user
+    [X] change battery E13
+    [X] sent laptop back to user
