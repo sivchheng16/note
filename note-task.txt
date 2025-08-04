@@ -192,3 +192,17 @@ Task apprentice this week:
     1 tell about you learn in this trip and tell to travel in cambodia country in the phnom penh seam reap home stay and kamport
     2 tell about travel each provice you go and exerprience
     3 sumery ....
+
+
+
+    task Apprentice this week
+
+    bunhak
+     [-] final report weteka
+
+    chheang & chheng
+     [-] user sevice
+     [-] install had sink for Dei Dos height school and changed SSD problem sent back when i go hometown
+     [-] chheang learn how to use github and command line
+     [-] chheng learn React.js
+
