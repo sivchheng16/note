@@ -1,7 +1,3 @@
-# My Notes
+# ABOUT NOTE
 
-This is my notes.
-
-Write more!
-
-add v3
+there is note for work and enything for save to see every time
