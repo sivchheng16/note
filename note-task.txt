@@ -222,3 +222,17 @@ Task apprentice this week:
  hello bong your computer was fixed. We had to update software koompi to the our last version. You could take it tomorow bong. Thank you!!
 
  Hi bong, your computer has been fixed. We need to update our koompi software to the latest version to you. You can get it tomorrow. Thank you!!
+
+
+
+
+staff from Reach project in kampong Ch'nang
+
+[-] keyboard  key not work
+    + a
+    + f
+    + <
+    + >
+    + right ctrl
+    + pageup
+    + number 0 (at numlock)
