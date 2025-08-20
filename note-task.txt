@@ -236,3 +236,29 @@ staff from Reach project in kampong Ch'nang
     + right ctrl
     + pageup
     + number 0 (at numlock)
+
+
+(15/08/25)
+Apprentice update task this week
+ - Work
+    + user sevice
+    + change screen and update software koompi os for one user
+
+    + check mini from Reach-Project (2) & (key1)
+    + testing monitor 21ing
+
+ - learn
+    + chheang CSS
+    + chheng Tailwindcss
+
+(18/08/25)
+task this week
+ - User service
+ - fix Mini problem SSD and Hardware
+ - prepare monitor sent to sala prekleap
+
+ + learn on tailwindcss
+
+Rich project keyboard problem
+
+​ជំរាបសួរលោកគ្រូ​ អ​ធ្យាស្រ័យចំពោះ keyboard មានបញ្ហា Keyពួកយើងកំពុងឲ្យជាងពិនិត្យ​ និងជួសជុល តែដោយសារខាងជាងអស់ស្តុក​ត្រូវ orderបន្ថែម ប្រើពេល២សប្តាហ៍ទៀតទើបរួសរាល់។
