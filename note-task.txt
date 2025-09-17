@@ -266,3 +266,61 @@ Rich project keyboard problem
 
 
 ជំរាបសួរលោកគ្រូ ពួកយើងបានដាក់ផ្ញើរMiniនិង keyboard​​ តាមវីរៈប៊ុនថាំរួចរាល់ហើយ
+
+
+
+Update task this week (22/08/25)
+- User sevice
+- sent mini and keyboard back to school
+
++ learn
+ - chheang learn CSS
+ - chheng learn Tailwindcss
+
+(29/08/25)
+ Apprentice update this week
+
+ [X] User service
+ [X] Sent computer E13 to user
+ [X] Support stadiumX on Match of ppc women team (mon & thu)
+
+ [x] learn
+    - chheng do project with tailwindcss
+    - chheang learn on css
+
+
+(01/09/2025)
+Apprentice update this week
+[x] User service
+[X] Change keyboard for one user
+[x] Support stadiumx on (3-6)
+
+[x] chheng do project with tailwindcss
+[x] chheang learn to make small project using html-css
+
+(05/09/2025)
+Apprentice update this week
+[x] User service
+[X] Change battery and keyboard for user
+[x] Support stadiumx on (3rd) and and Support tomorow
+
+[x] chheng do project with tailwindcss on animation customstyle on the web
+[x] chheang build small project using html-css and learn UX/UI in figma
+
+
+(08/09/2025)
+Apprentice update this week
+[x] User service
+[X] Change keyboard for one user and test
+[x] Support stadiumx on (9-13)
+
+[x] chheng learn react.js on state
+
+(15/09/25)
+My both this week
+- uservice
+- supported beongket on sun
+
+    +learn
+-CHHEANG learn on project and figma
+-CHHENG React.js

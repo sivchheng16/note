@@ -1,0 +1,7 @@
+# TASK REACT LEARINING
+    ## The first week ()
+        - learn about state and props
+
+    ## This week (15/09/25)
+        - learn about rendering list
+        - referencing value with Refs
