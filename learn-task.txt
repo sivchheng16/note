@@ -1,7 +1,22 @@
-# TASK REACT LEARINING
-    ## The first week ()
-        - learn about state and props
 
-    ## This week (15/09/25)
-        - learn about rendering list
-        - referencing value with Refs
+TASK REACT LEARNING AND NOTE WHAT WAS LEARN
+    - The first week note()
+        + state and props
+    - week note(15-09-25)
+        + rendering list
+        + referncing value with Refs
+        + hook
+            [-] Full useState
+    - week note learn only two day(26/09/25)
+        - useRef
+        - useContext
+
+
+
+
+
+
+### install react router
+    -   npx install react-router-dom
+        + useing referalink is need to import { link } from react-router-dom
+

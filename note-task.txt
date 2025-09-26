@@ -324,3 +324,26 @@ My both this week
     +learn
 -CHHEANG learn on project and figma
 -CHHENG React.js
+
+
+(19/09/25)
+My both update this week
+- uservice
+
+    +learn
+-CHHEANG learn on project and figma
+-CHHENG React.js(
+    learned on hook
+        + useState && useEffect
+ )
+
+ (26/09/25)
+ update this week
+    -work
+        + usersevice
+        + support beongket on sunday
+    -learn
+        + chheng react on (useRef && useContext)
+        + chheang javascript
+
+
