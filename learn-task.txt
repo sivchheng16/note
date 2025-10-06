@@ -14,6 +14,9 @@ TASK REACT LEARNING AND NOTE WHAT WAS LEARN
         - useReducer
         - UX/UI design layout
         - bash script
+    -week note october (06/10/25)
+        - useReducer
+        -
 
 
 

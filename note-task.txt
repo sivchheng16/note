@@ -368,3 +368,14 @@ My both update this week
         + chheng react and layout ux/ui
         + chheang javascript and pratice
 
+
+
+(06/10/25)
+ Note task this week
+    -work
+        + usersevice
+
+    -learn
+        + chheng react and ux/ui
+        + chheang javascript and pratice
+        + rith basic html
