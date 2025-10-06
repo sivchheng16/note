@@ -10,6 +10,11 @@ TASK REACT LEARNING AND NOTE WHAT WAS LEARN
     - week note learn only two day(26/09/25)
         - useRef
         - useContext
+    - week note (02/10/25)
+        - useReducer
+        - UX/UI design layout
+        - bash script
+
 
 
 

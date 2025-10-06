@@ -347,3 +347,24 @@ My both update this week
         + chheang javascript
 
 
+
+ (29/09/25)
+ update this week
+    -work
+        + usersevice
+        + fix mini problem software for Genious internation school
+    -learn
+        + chheng react
+        + chheang javascript
+
+
+
+ (03/10/25)
+ update this week
+    -work
+        + usersevice
+        + fixed mini problem software for Genious internation school
+    -learn
+        + chheng react and layout ux/ui
+        + chheang javascript and pratice
+
