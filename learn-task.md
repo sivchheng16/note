@@ -10,6 +10,12 @@
         - useRef
         - useContext
         
+    
+    ##   (20/11/25)
+        - target this week is Build project react 
+    
+        
+        
 
         
         
