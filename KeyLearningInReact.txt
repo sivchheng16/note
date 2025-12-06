@@ -1,0 +1,3 @@
+key learn from react
+
+1/ imagin about when u have a big project and in your folder component almost has been alotof file component (ex.100component) and u import it to file app the solution of the short to do is you should have one file call index.js in you folder component and import all the component file in this file and then in the index.js file also have line export all the component like (ex.export {Button,Navbar , extra..}) and you just import the coponent like import {Button, Navbar, extra...} from "coponent". Already
